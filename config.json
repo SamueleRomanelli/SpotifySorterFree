@@ -1,4 +1,4 @@
 {
-    "credentials_file": "/percorso/del/file/apikey_spotify.txt",
-    "backup_path": "/percorso/del/file/playlist_backup.json"
-  }
+  "credentials_file": "/percorso/del/file/apikey_spotify.txt",
+  "backup_path": "/percorso/del/file/playlist_backup.json"
+}
