@@ -97,6 +97,8 @@ Nel Terminale devi essere nella cartella dove si trova lo script facendo:
 cd /percorso/della/cartella/creata/al/punto1/SpotifySorterFree
 ```
 
+_per copiare i percorsi giusti conviene fare `tasto destro` sulla cartella in questo caso: `SpotifySorterFree` e cliccare `copia come percorso` infine incollare nel posto indicato:_
+
 Una volta dentro avvia lo script con:
 
 ```bash
