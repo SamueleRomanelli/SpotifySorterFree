@@ -110,8 +110,13 @@ Una volta dentro avvia lo script con:
 ```bash
 python3 ordina_playlist.py
 ```
-
 Inserisci l'ID della playlist quando richiesto e lascia che lo script faccia il resto! 🎵
+
+Dalla versione [v2.0.0](https://github.com/SamueleRomanelli/SpotifySorterFree/tree/v2.0.0) puoi usare anche questo script per creare o aggiornare le tue playlist:
+
+```bash
+python3 create_playlist.py
+```
 
 ---
 
