@@ -2,6 +2,8 @@
 
 **SpotifySorterFree** è uno script **totalmente gratuito** creato da **Samuele Romanelli** che ti permette di creare, aggiornare e ordinare facilmente le playlist pubbliche di **Spotify**. Con questo script, puoi organizzare le tue playlist in modo rapido ed efficiente direttamente dalla tua shell di comando! 🚀
 
+⚠️ **Nota importante:** Attualmente potrebbe essere necessario un **account Spotify Premium** per il corretto funzionamento. Inoltre, è possibile che alcune parti del codice debbano essere aggiornate per funzionare con le ultime modifiche delle API (non è garantito al 100%).
+
 ## ✨ Caratteristiche principali
 - ✅ **Ordina automaticamente** le playlist pubbliche in base a **artista** e **album**.
 - ✅ **Creazione e Aggiornamento** di playlist con la Top 50 dei brani più ascoltati nelle ultime 4 settimane.
@@ -13,6 +15,8 @@
 ## 🛠️ Requisiti
 - **Python 3.x** installato nel sistema.
 - **Un account Spotify** per generare le API Key.
+- ⚠️ **Account Spotify Premium (consigliato/attualmente necessario in alcuni casi)**.
+- ⚠️ **Possibili aggiornamenti manuali al codice** necessari per compatibilità con le API.
 - **Chiavi API di Spotify (Client ID & Client Secret)**.
 
 ## ℹ️ Versione Attuale = 2.0.0
